@@ -15,3 +15,5 @@ I
 src/components/nav/Nav.js,4\d\4dd109e9f79b75a06f403e146ceb5d90e9ea67cc
 J
 src/components/nav/Nav.css,b\1\b1d2a4afc37b9d592c0877fc2556c5f51ace70ed
+K
+src/components/nav/Nav.scss,5\d\5dc1abd2176bcb0035935b616f054a964189311b
